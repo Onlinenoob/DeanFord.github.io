@@ -6,8 +6,6 @@ Systems Engineer working in security operations, with a growing background in da
 📊 Studying: Level 5 Diploma in Data Analytics (Mission Ready), Postgraduate Diploma in Intelligence (Massey University)
 🛠️ Tools I work with: Microsoft Sentinel, Huntress, CrowdStrike, Azure, Power BI, MySQL, Python (Pandas), PowerShell
 📜 Certifications: CompTIA CySA+, Security+, Microsoft AZ-104, AZ-900, MS-900, SC-900, AWS Cloud Practitioner, Google Cybersecurity Certificate
-📍 Based in Auckland, New Zealand
-💼 LinkedIn · 📧 Deanshane5@gmail.com
 📂 Featured Projects
 Project	Description	Tools
 Retail Sales EDA	Exploratory data analysis on a multi-table retail sales dataset — merged Sales, Invoice, and Product tables, cleaned and profiled the data, and visualised sales trends	Python, Pandas, Matplotlib, Seaborn

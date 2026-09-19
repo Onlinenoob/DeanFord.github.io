@@ -1,24 +1,94 @@
-Hi, I'm Dean Ford 👋
+About
 
-Systems Engineer working in security operations, with a growing background in data analytics. I split my time between hands-on cybersecurity work (SIEM monitoring, vulnerability management, M365 hardening) and building data analytics skills through Mission Ready's Level 5 Diploma programme.
+Hi, I'm Dean! I'm a Systems Engineer working in security operations, currently completing a Level 5 Diploma in Data Analytics with Mission Ready alongside a Postgraduate Diploma in Intelligence at Massey University. I have a background spanning IT service desk, cloud/security administration, and hands-on SOC work, and I'm now building on that with data analytics skills — SQL, Power BI, and Python/Pandas.
 
-🔐 Currently: Systems Engineer at Vemo — monitoring and investigating security alerts, M365 security reviews, cyber insurance assessments, client cybersecurity training
-📊 Studying: Level 5 Diploma in Data Analytics (Mission Ready), Postgraduate Diploma in Intelligence (Massey University)
-🛠️ Tools I work with: Microsoft Sentinel, Huntress, CrowdStrike, Azure, Power BI, MySQL, Python (Pandas), PowerShell
-📜 Certifications: CompTIA CySA+, Security+, Microsoft AZ-104, AZ-900, MS-900, SC-900, AWS Cloud Practitioner, Google Cybersecurity Certificate
-📂 Featured Projects
-Project	Description	Tools
-Retail Sales EDA	Exploratory data analysis on a multi-table retail sales dataset — merged Sales, Invoice, and Product tables, cleaned and profiled the data, and visualised sales trends	Python, Pandas, Matplotlib, Seaborn
-Employee Dataset EDA	End-to-end EDA covering data loading, cleaning, transformation, handling missing values, filtering, and aggregation on an employee dataset	Python, Pandas
-Customer Analytics Dashboard	Group project analysing customer demographics and building time-intelligence DAX measures for a business dashboard	MySQL, Power BI, Azure SQL, DAX
-SQL Jobs Dataset Analysis	SQL-based analysis of a jobs dataset, answering ten structured business questions and presenting results in a styled Excel workbook	SQL, Excel
+In my current role at Vemo, I monitor and investigate security alerts across SIEM platforms, run Microsoft 365 security reviews, and deliver cybersecurity awareness training to clients. Before that I worked service desk and vulnerability management at Fletcher Building, and did an ICT internship at Fisher & Paykel Healthcare. I'm interested in where security, intelligence, and data analysis intersect, and I'm using this repo to track my progress and show my work as I go.
 
-🎓 Background
+My CV in pdf.
 
-Before moving into data analytics, I built several years of IT and security experience:
+This is a repository to showcase skills, share projects, and track my progress in data analytics and cybersecurity-related topics.
 
-Fletcher Building — Service Desk Analyst (L1–2), vulnerability management across 30+ subsidiaries using Tenable and Upguard, Active Directory administration, ITIL incident management
-Fisher & Paykel Healthcare — ICT Internship, device imaging/deployment with SCCM, Intune and Autopilot
-Techtorium — IT Trainer, delivering NZQA Level 5 ICT training and mentoring students through certification and career readiness
+Table of Contents
+About
+Portfolio Projects
+SQL / Excel
+SQL Jobs Dataset Analysis
+Python
+Employee Dataset EDA
+Retail Sales EDA
+Power BI / SQL
+Customer Analytics Dashboard
+Education
+Certificates
+Contact
+Portfolio Projects
 
-📫 Open to connecting on cybersecurity, data analytics, or IT infrastructure topics — feel free to reach out.****
+In this section I list my data analytics projects, briefly describing the technology stack used and what each one covers.
+
+SQL Jobs Dataset Analysis
+
+Code: SQL Jobs Dataset Analysis
+
+Description: Analysed a jobs dataset using SQL, answering ten structured business questions and presenting the results in a styled Excel workbook.
+
+Skills: SQL querying, data analysis, Excel reporting and formatting.
+
+Technology: SQL, Excel.
+
+Employee Dataset EDA
+
+Code: Employee Dataset EDA.ipynb
+
+Description: End-to-end exploratory data analysis on an employee dataset (id, name, age, department, salary, work experience), covering data loading, exploration, transformation, handling missing data, filtering, and aggregation.
+
+Skills: data cleaning, data wrangling, exploratory analysis.
+
+Technology: Python, Pandas.
+
+Retail Sales EDA
+
+Code: Retail Sales EDA.ipynb
+
+Description: Merged and analysed a multi-table retail sales dataset (Sales, Invoice, and Product tables joined on InvoiceNo/StockCode), profiling the data and visualising sales trends.
+
+Skills: data cleaning, data merging, data visualisation.
+
+Technology: Python, Pandas, Matplotlib, Seaborn.
+
+Customer Analytics Dashboard
+
+Code: Customer Analytics Dashboard
+
+Description: Group project analysing customer demographics and building time-intelligence DAX measures to power a business dashboard.
+
+Skills: data modelling, DAX measures, dashboard design.
+
+Technology: MySQL, Azure SQL, Power BI.
+
+Education
+
+Massey University: Postgraduate Diploma in Intelligence, Feb 2026 - Dec 2026
+
+Mission Ready: Level 5 Diploma in Data Analytics, Feb 2026 - Dec 2026
+
+Unitec: Level 8 Postgraduate Diploma of Applied Technologies, Feb 2025 - Dec 2025
+
+Techtorium NZIIT: Level 7 Diploma in Cloud Management, Feb 2023 - Dec 2023
+
+Techtorium NZIIT: Level 6 Diploma in Systems Administration, Feb 2022 - Dec 2022
+
+Techtorium NZIIT: Level 5 Diploma in IT Technical Support, Feb 2021 - Dec 2021
+
+Certificates
+
+Here's a list of the certifications I hold (in reverse-chronological order, with completion date in brackets):
+
+CompTIA CySA+ (Dec 2025)
+Google Cybersecurity Certificate (Dec 2025)
+CompTIA Security+ (Mar 2024)
+Microsoft SC-900 (Sep 2023)
+Microsoft MS-900 (Aug 2023)
+Microsoft AZ-900 (Aug 2023)
+AWS Certified Cloud Practitioner - CLF-C02 (Sep 2023)
+Microsoft AZ-104: Azure Administrator Associate
+CompTIA CSAP
